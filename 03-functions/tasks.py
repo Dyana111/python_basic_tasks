@@ -24,6 +24,8 @@ mysum(2,3,4,5,6,7,8,9,10)
 result= (lambda args, *vartuple: args+sum(vartuple))(4+sum(6,7,8,9,10,11,12,13))
 print (result) #sum(vartuple) is not working here
 #8:difference between local variable and global variable
+'''
 local variable in a function for example is only working in a function so all the
 operation we make on it. it will be ineffective outside the function
 but the global one : every changing whereever it is . it will be effective
+'''

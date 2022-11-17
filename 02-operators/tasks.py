@@ -1,10 +1,16 @@
 #1: what is the difference between = and ==
+'''
 =: is to give the variable a value
 ==: it means equal
+'''
 #2: what do we mean by using !=
+'''
 not equal
+'''
 #3: what is the operator precedence
+'''
 () --> ** --> * / --> + -
+'''
 #4: create a variable x with value of 10
 x=10
 #5: increase x value by 15 using assignment operators
