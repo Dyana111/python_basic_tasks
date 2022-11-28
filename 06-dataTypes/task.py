@@ -34,3 +34,8 @@ numbers2=(1,2,3,4,5)
 dic={'Mahmoud':28, 'ahmed':30}
 #12:print Mahmouds age from the dict:
 print(dic['Mahmoud'])
+#13:what is the difference between mutable and immutable data types
+'''
+mutable: is an object which is able to change from the inside (like LIST)
+immutable: we cannot change it(LIKE TUPLE)
+'''
